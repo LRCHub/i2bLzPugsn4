@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "パーティーマジックデザイナー",
+  "base_artist": "放課後クライマックスガールズ",
+  "createdAt": "2026-03-09T05:14:33.479416Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パーティーマジックデザイナー",
+      "artist": "放課後クライマックスガールズ",
+      "has_synced": false,
+      "path": "select/pl_01_パーティーマジックデザイナー_放課後クライマックスガールズ.txt"
+    }
+  ]
+}
